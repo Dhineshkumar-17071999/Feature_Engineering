@@ -1,6 +1,6 @@
 # Feature_Engineering
 
-Step 1: EDA (Exploratory Data Analysis)
+* Step 1: EDA (Exploratory Data Analysis)
     * Numerical feature may be there (Histogram, PDF)
     * Categorical feature
     * Missing values (Visualize all these graphs)
